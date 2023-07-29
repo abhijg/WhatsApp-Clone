@@ -1,41 +1,30 @@
 # Flutter WhatsAppClone
 
-Building a WhatsApp Clone in Flutter.
 
-### Show some :heart: and star the repo to support the project
 
-### Screenshots
+# Description
 
-<img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" />
+This Flutter project is a WhatsApp clone, designed to replicate some of the core features of the popular messaging app. It serves as a learning and educational project for Flutter enthusiasts who want to explore building real-time chat applications.
 
-[Watch the video tutorial on YouTube](https://youtu.be/2Tyrofn6zPg)
 
-### Created & Maintained By
+## Features
 
-[Pawan Kumar](https://github.com/iampawan) ([@imthepk](https://www.twitter.com/imthepk)) ([Youtube](https://www.youtube.com/c/MTechViral))
-([Insta](https://www.instagram.com/codepur_ka_superhero))
 
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> * [PayPal](https://www.paypal.me/imthepk/)
+- Real-time messaging with friends.
+- View online/offline status of friends.
 
-# License
 
-    Copyright 2018 Pawan Kumar
+## Installation
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+1. Make sure you have Flutter installed. If not, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
+2. Clone this repository to your local machine using:
+## Acknowledgments
 
-       http://www.apache.org/licenses/LICENSE-2.0
+- Thanks to the Flutter team for providing an amazing framework.
+- Thanks to [insert-name] for the inspiration and guidance.
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+## Contact
 
-## Getting Started
+If you have any questions or suggestions, feel free to contact me at jgabhi9910@gmail.com.
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+---
